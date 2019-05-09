@@ -19,7 +19,6 @@
   |-- motalities/      	# Package con modalità disponibili
   |
   |-- MusicSort.py   	# Eseguibile principale
-  |-- MusicSort.bat     # Eseguibile Windows
 ```
 
 <hr/>

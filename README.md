@@ -6,8 +6,9 @@
 #### Dipendenze:
  - [tinytag](https://pypi.org/project/tinytag/): `pip3 install tinytag`
  - [PyQtWebEngine](https://pypi.org/project/PyQtWebEngine/): `pip3 install PyQtWebEngine`
+ - [PyQt5](https://pypi.org/project/PyQt5/): `pip3 install PyQt5`
 
-#### Funzionalità:
+### Funzionalità:
  - ...
 
 #### Directories:
